@@ -29,6 +29,22 @@ Implementation:
 
 Run: Using Pyhtom prompt
 
+Project Flowchart :
+Here's a simplified flowchart of the project:
+1. Start
+2. Connect to MySQL Database
+Check for existing database and tables
+Create database and tables if not present
+3. Main Menu
+Options for user: Add Supplier, Add Stock, View Details, Update Details, Delete Records, etc.
+4. Execute Selected Function
+Input and validation
+CRUD operations based on user input
+5. Return to Main Menu or Exit
+6. Close Database Connection
+7. End
+
+
 Team Contributions:
   ASWIN P PAI : Database structure design, MySQL integration, and setup functions.
   VInayak S : Testing, debugging, and user documentation preparation.
