@@ -362,7 +362,7 @@ while True:
         elif i==0:
             break
         else:
-            print("enter ")
+            print("enter a valid choice")
         
 con.close()            
 
