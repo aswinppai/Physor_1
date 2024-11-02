@@ -27,11 +27,7 @@ Implementation:
   CRUD (Create, Read, Update, Delete) operations on suppliers and stock items. Users can add supplier details, track item quantities, retrieve information, and 
   update or delete records as necessary.
 
-Installations:
-Run:
-Project documentations:
-Screenshots:
-Project demos:
+Run: Using Pyhtom prompt
 
 Team Contributions:
   ASWIN P PAI : Database structure design, MySQL integration, and setup functions.
