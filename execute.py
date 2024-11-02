@@ -6,7 +6,7 @@ con=mysql.connector.connect(host='localhost',
                             password=x)
 cur=con.cursor()
 cur.execute("show databases;")
-d=cur.fetcahall()
+d=cur.fetchall()
 
 if ("storemanager",) in d:
     cur.execute("use storemanager;")
