@@ -1,5 +1,13 @@
 # Physor-1
 Team name: PYRUS
+Demo:
+https://drive.google.com/drive/folders/1Ztk8JQSidLcw2OZGepBb81cVQZzl9zPm
+
+Flowchart:
+https://drive.google.com/drive/folders/1ZszGLpQ8iUFn5USqDgT-lv614K3QXVGu
+
+Screenshot :
+https://drive.google.com/drive/folders/1ZtaYfBMwT0IbbRfZ1Jliu5fZYD2-t6qy
 
 Project Description: 
   Physor 1 is an inventory management system designed to help warehouse owners and sellers efficiently track and manage stock levels, supplier details, and item 
@@ -44,14 +52,6 @@ CRUD operations based on user input
 6. Close Database Connection
 7. End
 
-Flowchart:
-https://drive.google.com/drive/folders/1ZszGLpQ8iUFn5USqDgT-lv614K3QXVGu
-
-Screenshot :
-https://drive.google.com/drive/folders/1ZtaYfBMwT0IbbRfZ1Jliu5fZYD2-t6qy
-
-Demo:
-https://drive.google.com/drive/folders/1Ztk8JQSidLcw2OZGepBb81cVQZzl9zPm
 
 Team Contributions:
   ASWIN P PAI : Database structure design, MySQL integration, and setup functions.
